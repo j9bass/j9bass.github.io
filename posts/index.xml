@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Hugo Tester</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Hugo Tester</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 16 Apr 2020 14:44:54 -0400</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First Post</title>
+			<link>/posts/first-post/</link>
+			<pubDate>Thu, 16 Apr 2020 14:44:54 -0400</pubDate>
+			
+			<guid>/posts/first-post/</guid>
+			<description>This is the page for posts Posting&amp;hellip; posting&amp;hellip; really posting&amp;hellip;</description>
+			<content type="html"><![CDATA[<h1 id="this-is-the-page-for-posts">This is the page for posts</h1>
+<p>Posting&hellip; <em>posting</em>&hellip; <em>really</em> posting&hellip;</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
